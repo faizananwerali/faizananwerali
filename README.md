@@ -53,4 +53,19 @@ Whether you're a fellow coding enthusiast, a business owner looking to elevate y
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizananwerali&" alt="faizananwerali" /></p>
 
+[![faizananwerali's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/3774282)](https://github.com/johannchopin/stackoverflow-readme-profile)
+
+[![faizananwerali's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/3774282)](https://github.com/johannchopin/stackoverflow-readme-profile)
+
+[![faizananwerali's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/3774282)](https://github.com/johannchopin/stackoverflow-readme-profile)
+
+<a href="https://stackexchange.com/users/4576977"><img src="https://stackexchange.com/users/flair/4576977.png" width="208" height="58" alt="profile for Faizan Anwer Ali on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Faizan Anwer Ali on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
+![StackOverflow Stats](https://stackoverflow-card.vercel.app/?userID=3774282)
+
 ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=3774282)
+
+<a href="https://stackoverflow.com/users/3774282/faizananwerali" target="_blank">
+<img alt="StackOverflow"
+src="https://stackoverflow-badge.vercel.app/?userID=3774282" />
+</a>
