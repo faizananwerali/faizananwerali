@@ -52,3 +52,5 @@ Whether you're a fellow coding enthusiast, a business owner looking to elevate y
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizananwerali&show_icons=true&locale=en" alt="faizananwerali" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizananwerali&" alt="faizananwerali" /></p>
+
+![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=3774282)
